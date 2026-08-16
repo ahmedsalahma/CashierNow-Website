@@ -1,0 +1,3 @@
+docs/code-samples/*.ts linguist-detectable=true
+docs/code-samples/*.tsx linguist-detectable=true
+scripts/validate_portfolio.py linguist-detectable=false
