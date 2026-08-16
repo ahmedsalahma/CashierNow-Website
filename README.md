@@ -41,7 +41,7 @@ The complete production implementation is not distributed here. Small, sanitized
 
 ## Screenshots
 
-All screenshots below were captured from the independently deployed production website. They contain no admin interfaces, credentials, browser chrome, or development tooling.
+All screenshots below were captured from the independently deployed production website. The POS demonstration images intentionally show client-side product-demo interfaces populated with dummy data; no production administration system, credentials, browser chrome, or development tooling is shown.
 
 ### Landing and product presentation
 
